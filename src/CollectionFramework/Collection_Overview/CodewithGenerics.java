@@ -20,6 +20,6 @@ public class CodewithGenerics {
         // This shows compiler error
         // as p.x was an integer and cannot be
         // casted to a string
-        String str = (String) p.x;
+//        String str = (String) p.x;
     }
 }
